@@ -1,8 +1,10 @@
-# Anomaly-Detection-Models
+# Credit Card Anomaly Detection Models
 
 
-Credit Card Anomaly Detection Models¶
+
 Brainstation Data Science Capstone | 2019 | Manny Brar
+
+
 Objective=
 The importance of effective and quick detection of fraud events is becoming more and more essential everyday with the rise in fraud activity over the years. For my project I have decided to explore and evaluate a few different machine learning classification models to see which model will have the highest accuracy to detect anomaly transactions. I will utilize both supervised and unsupervised methods and compare overall performance metrics to determine the best option.
 
